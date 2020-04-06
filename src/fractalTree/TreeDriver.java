@@ -52,7 +52,7 @@ public class TreeDriver
       {
         tree.updateTrunkLength();
       }
-      Thread.sleep(25);
+      Thread.sleep(20);
     }
   }
 
